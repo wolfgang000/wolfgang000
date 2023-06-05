@@ -8,6 +8,12 @@
   <br> <br>
 </p>
 
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/wolfgang000/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:wolfgangsalazarmora@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <!--
 **wolfgang000/wolfgang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
