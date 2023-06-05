@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>
+    I'm a Full-stack Developer with a heavy lean toward the backend. 
+  <br>
+    I love to write clean and maintainable code, kill technical debt, and optimize CI/CD pipelines.
+  </samp>
+  <br> <br>
+</p>
 
 <!--
 **wolfgang000/wolfgang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
