@@ -43,7 +43,7 @@
 
 <h2 align="center">🏭 Side Projects</h2>
 
-### [Micro chat](https://micro-chat.wsalazar.dev/) - [Repo (Elixir, Phoenix, Vue.js)](https://github.com/wolfgang000/micro_chat)
+### [Micro chat](https://micro-chat.wsalazar.dev/) - [Repo (Elixir, Phoenix, Vue.js, WebRTC)](https://github.com/wolfgang000/micro_chat)
 
 A simple chat app that does not save/track or monitor your messages.
 
