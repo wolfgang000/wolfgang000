@@ -43,10 +43,13 @@
 
 <h2 align="center">🏭 Side Projects</h2>
 
-### [Micro chat](https://micro-chat.wsalazar.dev/) - [Repo (Elixir, Phoenix, Vue.js)](https://github.com/wolfgang000/micro_chat)
+### [Micro feeder](https://micro-feeder.wsalazar.dev/) - [Repo (Python, FastAPI, React)](https://github.com/wolfgang000/micro_feeder)
 
-A simple chat app that does not save/track or monitor your messages.
+Subscribe to RSS feeds and receive updates via webhooks.
 
+### [Micro chat](https://micro-chat.wsalazar.dev/) - [Repo (Elixir, Phoenix, Vue.js, WebRTC)](https://github.com/wolfgang000/micro_chat)
+
+A simple messaging/video chat app that does not save/track or monitor your messages.
 
 <!--
 **wolfgang000/wolfgang000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
